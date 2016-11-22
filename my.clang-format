@@ -55,7 +55,7 @@ PointerAlignment: Right
 SortIncludes: 'true'
 SpaceAfterCStyleCast: 'false'
 SpaceBeforeAssignmentOperators: 'true'
-SpaceBeforeParens: Always
+SpaceBeforeParens: ControlStatements
 SpaceInEmptyParentheses: 'false'
 SpacesBeforeTrailingComments: '1'
 SpacesInAngles: 'false'
